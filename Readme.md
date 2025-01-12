@@ -66,6 +66,5 @@ Contributions are welcome! To contribute:
    ```bash
    git push origin feature-name
    ```
-5. Open a pull request.
 
 
